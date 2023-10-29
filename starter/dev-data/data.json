@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Ring",
+    "image": "💍",
+    "from": "Spain",
+    "material": "Silver with blue gemstone",
+    "quantity": "1 💍",
+    "price": "80",
+    "available": true,
+    "description": "This lovely ring has a beautiful gem in the middle, held by a detailed design. The smooth, shiny band is comfy and stylish. It's great for special occasions or everyday wear, and it always looks pretty. It tells a story of beauty that never gets old every time you see it."
+  },
+  {
+    "id": 1,
+    "productName": "Diamond",
+    "image": "💎",
+    "from": "Argentina",
+    "material": "Carbon Atoms",
+    "quantity": "5 💎",
+    "price": "500",
+    "available": false,
+    "description": "A diamond is a stunning gem, sparkling brilliantly. Its pure, crystal structure reflects light, showing its beauty. Mined deep within the Earth, it's a symbol of love and lasting elegance, captivating with its radiant charm."
+  },
+  {
+    "id": 2,
+    "productName": "Necklace",
+    "image": "📿",
+    "from": "Portugal",
+    "material": "Gold",
+    "quantity": "1 📿",
+    "price": "120",
+    "available": true,
+    "description": "This necklace has a pretty teardrop-shaped crystal on a silver chain. It's tough and looks delicate, like a dewdrop on a spider's web. You can wear it with any outfit. It comes in a nice box and makes a great gift. It's like wearing a beautiful piece of art that shines and sparkles."
+  },
+  {
+    "id": 3,
+    "productName": "Bracelet",
+    "image": "⚪",
+    "from": "France",
+    "material": "Silver",
+    "quantity": "1 ⚪",
+    "price": "50",
+    "available": true,
+    "description": "This bracelet has shiny white beads on a comfy cord. It's simple and goes with any outfit. It's a nice gift, and it looks elegant. Wear it to make your wrist look pretty."
+  },
+  {
+    "id": 4,
+    "productName": "Crown",
+    "image": "👑",
+    "from": "Germany",
+    "material": "18K Gold",
+    "quantity": "1 👑",
+    "price": "5000",
+    "available": false,
+    "description": "This crown is really special. It has pretty designs and shiny gems that sparkle in the light. You can wear it for weddings, pageants, or when you dress up. It makes you feel like a king or queen. Get this crown and be super fancy!"
+  }
+]
